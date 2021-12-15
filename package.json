@@ -2,7 +2,7 @@
   "name": "{{name}}",
   "version": "0.0.3",
   "description": "eslint、stylelint、prettier 配置集合",
-  "author": "libo@tuya.com",
+  "author": "{{author}}",
   "license": "MIT",
   "main": "dist/index.js",
   "files": [
