@@ -1,5 +1,5 @@
 {
-  "name": "@tuya-fe/spa-config",
+  "name": "{{name}}",
   "version": "0.0.3",
   "description": "eslint、stylelint、prettier 配置集合",
   "author": "libo@tuya.com",
